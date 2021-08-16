@@ -6,3 +6,5 @@ b2 branch line.
 
 new b2 commit
 b1 branch line.
+
+one more line.
