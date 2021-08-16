@@ -2,4 +2,4 @@ This is main file.
 
 This is b1 branch line.
 
-b2 branch line.
+b1 branch line.
